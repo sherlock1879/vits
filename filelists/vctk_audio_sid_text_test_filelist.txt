@@ -153,12 +153,10 @@ DUMMY2/p311/p311_226.wav|4|Gone with them is any sense of narrative.
 DUMMY2/p335/p335_279.wav|49|Or rather he did and he didn't.
 DUMMY2/p270/p270_068.wav|8|Then followed a bout of flu.
 DUMMY2/p260/p260_072.wav|81|It was magic.
-DUMMY2/p362/p362_341.wav|15|The result could be all down to turnout.
 DUMMY2/p228/p228_180.wav|57|One season, they might do well.
 DUMMY2/p316/p316_152.wav|85|Failure is not an option.
 DUMMY2/p317/p317_423.wav|97|Manchester United are the classic example.
 DUMMY2/p243/p243_292.wav|53|Its work includes dealing with child abuse.
-DUMMY2/p362/p362_054.wav|15|We certainly hope we have been successful.
 DUMMY2/p243/p243_305.wav|53|What happened in that game ?
 DUMMY2/p364/p364_297.wav|88|It was just one man.
 DUMMY2/p255/p255_049.wav|31|We were surprised to see the photograph.
@@ -174,7 +172,6 @@ DUMMY2/p317/p317_256.wav|97|The man was pronounced dead on arrival.
 DUMMY2/p351/p351_161.wav|33|Paterson can afford to be generous.
 DUMMY2/p314/p314_295.wav|51|You take a risk.
 DUMMY2/p293/p293_268.wav|23|Our children are our future.
-DUMMY2/p306/p306_352.wav|12|Who has the second highest?
 DUMMY2/p273/p273_098.wav|56|The following are the principal provisions.
 DUMMY2/p285/p285_029.wav|2|Their courage, and their honesty, should be respected.
 DUMMY2/p266/p266_073.wav|20|It works for us.
